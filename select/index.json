@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "プレデター",
+  "base_artist": "AKASAKI",
+  "createdAt": "2026-03-15T16:31:11.471888Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プレデター - Slowed Down",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/01_プレデター_-_Slowed_Down_AKASAKI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プレデター - Predator",
+      "artist": "AKASAKI",
+      "has_synced": true,
+      "path": "select/02_プレデター_-_Predator_AKASAKI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プレデター",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_プレデター_AKASAKI.txt"
+    }
+  ]
+}
